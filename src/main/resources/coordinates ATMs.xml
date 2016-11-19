@@ -1,0 +1,1106 @@
+<lkb>
+    <atm>
+        <name>ATM001</name>
+        <latitude>52.635039</latitude>
+        <longitude>39.664481</longitude>
+        <description>магазин "Пролетарский", Липецк, ул. Баумана, 2-б</description>
+    </atm>
+    <atm>
+        <name>ATM002</name>
+        <latitude>52.577963</latitude>
+        <longitude>39.620769</longitude>
+        <description>магазин "Покупайка" (Сталевар), Липецк, пр.Мира, 27</description>
+    </atm>
+    <atm>
+        <name>ATM003</name>
+        <latitude>52.605245</latitude>
+        <longitude>39.530282</longitude>
+        <description>МУП ЛПГЭТ, Липецк, Елецкое шоссе, д. 3</description>
+    </atm>
+    <atm>
+        <name>ATM004</name>
+        <latitude>52.571544</latitude>
+        <longitude>39.621834</longitude>
+        <description>Комбинатоуправление НЛМК, Липецк, пл. Металлургов, 2</description>
+    </atm>
+    <atm>
+        <name>ATM005</name>
+        <latitude>52.608272</latitude>
+        <longitude>39.545394</longitude>
+        <description>Торговый дом "Ноябрьский", Липецк, ул. Космонавтов, 98</description>
+    </atm>
+    <atm>
+        <name>ATM006</name>
+        <latitude>52.590851</latitude>
+        <longitude>39.53699</longitude>
+        <description>магазин "Детишкино", Липецк, ул. Петра Смородина, 12а</description>
+    </atm>
+    <atm>
+        <name>ATM008</name>
+        <latitude>52.571544</latitude>
+        <longitude>39.621834</longitude>
+        <description>Комбинатоуправление НЛМК, Липецк, пл. Металлургов, 2</description>
+    </atm>
+	<atm>
+        <name>ATM009</name>
+        <latitude>52.618276</latitude>
+        <longitude>39.610247</longitude>
+        <description>м-н "Пролетарский", Липецк, ул. Гагарина, 8</description>
+    </atm>
+	<atm>
+        <name>ATM010</name>
+        <latitude>52.592107</latitude>
+        <longitude>39.531512</longitude>
+        <description>м-н "Покупайка", Липецк, ул. Стаханова, 21</description>
+    </atm>
+	<atm>
+        <name>ATM011</name>
+        <latitude>52.571544</latitude>
+        <longitude>39.621834</longitude>
+        <description>Центральные проходные НЛМК, Липецк, пл. Металлургов, 2</description>
+    </atm>
+	<atm>
+        <name>ATM012</name>
+        <latitude>52.586568</latitude>
+        <longitude>39.509645</longitude>
+        <description>м-н "Покупайка" (Караван), Липецк, ул. Хорошавина, 29а</description>
+    </atm>
+	<atm>
+        <name>ATM013</name>
+        <latitude>52.60128</latitude>
+        <longitude>39.603748</longitude>
+        <description>Дворец правосудия, Липецк, пл. Петра Великого, 5</description>
+    </atm>
+	<atm>
+        <name>ATM014</name>
+        <latitude>52.574686</latitude>
+        <longitude>39.642000</longitude>
+        <description>МУП "ЛПАТП", Липецк, ул. Ферросплавная, 17</description>
+    </atm>
+	<atm>
+        <name>ATM015</name>
+        <latitude>52.579239</latitude>
+        <longitude>39.521476</longitude>
+        <description>Магазин "Пятерочка", г. Липецк, ул. Бунина, д. 15</description>
+    </atm>
+	<atm>
+        <name>ATM016</name>
+        <latitude>52.617509</latitude>
+        <longitude>39.578963</longitude>
+        <description>м-н "Покупайка", Липецк, ул. Космонавтов, 10</description>
+    </atm>
+	<atm>
+        <name>ATM017</name>
+        <latitude>52.541090</latitude>
+        <longitude>39.584817</longitude>
+        <description>магазин "Каравай", Липецк, пос. Тракторный, ул. Ленинградская, 8</description>
+    </atm>
+	<atm>
+        <name>ATM018</name>
+        <latitude>52.564408</latitude>
+        <longitude>39.593826</longitude>
+        <description>КХП НЛМК, Липецк, пл. Металлургов, 2</description>
+    </atm>
+	<atm>
+        <name>ATM019</name>
+        <latitude>52.617657</latitude>
+        <longitude>39.547277</longitude>
+        <description>м-н "Пролетарский" (КТЗ), Липецк, ул. Московская, 5</description>
+    </atm>
+	<atm>
+        <name>ATM020</name>
+        <latitude>52.584728</latitude>
+        <longitude>39.546739</longitude>
+        <description>м-н "Покупайка" (Автовокзал), Липецк, пр. Победы, 91</description>
+    </atm>
+	<atm>
+        <name>ATM021</name>
+        <latitude>52.595089</latitude>
+        <longitude>39.543292</longitude>
+        <description>м-н "Пролетарский", Липецк, ул. 15 микрорайон, 15</description>
+    </atm>
+	<atm>
+        <name>ATM022</name>
+        <latitude>52.565940</latitude>
+        <longitude>39.609641</longitude>
+        <description>Старые проходные НЛМК, Липецк, пл. Металлургов, 2</description>
+    </atm>
+	<atm>
+        <name>ATM023</name>
+        <latitude>52.565940</latitude>
+        <longitude>39.609641</longitude>
+        <description>Старые проходные НЛМК, Липецк, пл. Металлургов, 2</description>
+    </atm>
+	<atm>
+        <name>ATM024</name>
+        <latitude>52.583427</latitude>
+        <longitude>39.480695</longitude>
+        <description>м-н "Покупайка" (С. Рудник), Липецк, ул. Ангарская, д. 3</description>
+    </atm>
+	<atm>
+        <name>ATM025</name>
+        <latitude>52.616431</latitude>
+        <longitude>39.555917</longitude>
+        <description>Департамент образования, Липецк, ул. Космонавтов, 56А</description>
+    </atm>
+	<atm>
+        <name>ATM026</name>
+        <latitude>52.596921</latitude>
+        <longitude>39.556980</longitude>
+        <description>м-н "Перекресток", Липецк, ул. Папина, д. 6</description>
+    </atm>
+	<atm>
+        <name>ATM027</name>
+        <latitude>52.571544</latitude>
+        <longitude>39.621834</longitude>
+        <description>Центральные проходные НЛМК, Липецк, пл. Металлургов, 2</description>
+    </atm>
+	<atm>
+        <name>ATM028</name>
+        <latitude>52.619355</latitude>
+        <longitude>39.569219</longitude>
+        <description>магазин "Пролетарский", Липецк, ул. Терешковой, д. 7/1</description>
+    </atm>
+	<atm>
+        <name>ATM029</name>
+        <latitude>52.616618</latitude>
+        <longitude>39.560903</longitude>
+        <description>магазин "Липка", Липецк, ул. Космонавтов, 44/3</description>
+    </atm>
+	<atm>
+        <name>ATM030</name>
+        <latitude>52.603001</latitude>
+        <longitude>39.571860</longitude>
+        <description>ТЦ "Победа", Липецк, пр.Победы, 5а</description>
+    </atm>
+	<atm>
+        <name>ATM031</name>
+        <latitude>52.599461</latitude>
+        <longitude>39.583696</longitude>
+        <description>м-н "Покупайка", Липецк, ул. Неделина, 20</description>
+    </atm>
+    <atm>
+        <name>ATM032</name>
+        <latitude>52.596127</latitude>
+        <longitude>39.534765</longitude>
+        <description>магазин "Пятерочка" (Стаханова), Липецк, ул. Стаханова, 2</description>
+    </atm>
+    <atm>
+        <name>ATM033</name>
+        <latitude>52.491561</latitude>
+        <longitude>39.956271</longitude>
+        <description>магазин "Покупайка" (Грязи), Грязи, ул. Ленинская, д.2</description>
+    </atm>
+    <atm>
+        <name>ATM034</name>
+        <latitude>52.605244</latitude>
+        <longitude>39.593990</longitude>
+        <description>Городская администрация Липецка, Липецк, пл. Театральная, 1</description>
+    </atm>
+    <atm>
+        <name>ATM035</name>
+        <latitude>52.592835</latitude>
+        <longitude>39.564177</longitude>
+        <description>м-н "Пролетарский", Липецк, ул. Депутатская, 92</description>
+    </atm>
+    <atm>
+        <name>ATM036</name>
+        <latitude>52.625259</latitude>
+        <longitude>39.539478</longitude>
+        <description>Липецкий хладокомбинат, Липецк, Лебедянское шоссе, 1</description>
+    </atm>
+    <atm>
+        <name>ATM037</name>
+        <latitude>52.592131</latitude>
+        <longitude>39.525113</longitude>
+        <description>гипермаркет "Линия", пр. 60 лет СССР, 34</description>
+    </atm>
+	<atm>
+        <name>ATM038</name>
+        <latitude>52.606731</latitude>
+        <longitude>39.585263</longitude>
+        <description>магазин "Пятерочка", Липецк, ул. 8 марта, д. 9</description>
+    </atm>
+	<atm>
+        <name>ATM039</name>
+        <latitude>52.583111</latitude>
+        <longitude>39.529861</longitude>
+        <description>м-н "Кит", Липецк, ул. Меркулова, 55</description>
+    </atm>
+	<atm>
+        <name>ATM040</name>
+        <latitude>52.567263</latitude>
+        <longitude>39.696661</longitude>
+        <description>Аглофабрика НЛМК, Липецк, пл. Металлургов, 2</description>
+    </atm>
+	<atm>
+        <name>ATM041</name>
+        <latitude>52.614075</latitude>
+        <longitude>39.597324</longitude>
+        <description>магазин "Продукты", Липецк, ул. Зегеля, д. 23 а</description>
+    </atm>
+	<atm>
+        <name>ATM042</name>
+        <latitude>51.238478</latitude>
+        <longitude>37.902100</longitude>
+        <description>Белгородская обл., г. Старый Оскол, СГОК, Карьерная площадка, АБК</description>
+    </atm>
+	<atm>
+        <name>ATM043</name>
+        <latitude>52.539727</latitude>
+        <longitude>39.569284</longitude>
+        <description>магазин "Покупайка", Липецк, ул. Юбилейная, д. 3</description>
+    </atm>
+	<atm>
+        <name>ATM044</name>
+        <latitude>53.247695</latitude>
+        <longitude>39.152757</longitude>
+        <description>ДО "Данковское отделение", Данков, ул. Мира, 11</description>
+    </atm>
+	<atm>
+        <name>ATM045</name>
+        <latitude>52.638652</latitude>
+        <longitude>39.662233</longitude>
+        <description>м-н "Покупайка", Липецк, ул. Кутузова, д.2</description>
+    </atm>
+	<atm>
+        <name>ATM046</name>
+        <latitude>52.619256</latitude>
+        <longitude>38.476440</longitude>
+        <description>Детская поликлиника ГУЗ "Елецкая городская детская больница", Елец, ул. 220 Стрелковой дивизии, 3</description>
+    </atm>
+	<atm>
+        <name>ATM047</name>
+        <latitude>52.587602</latitude>
+        <longitude>39.524886</longitude>
+        <description>магазин "Пролетарский", Липецк, бульвар Есенина, д. 14-а</description>
+    </atm>
+	<atm>
+        <name>ATM048</name>
+        <latitude>51.285385</latitude>
+        <longitude>37.819966</longitude>
+        <description>гостиница "Стойлянка", проспект Комсомольский, д. 71</description>
+    </atm>
+	<atm>
+        <name>ATM049</name>
+        <latitude>52.611612</latitude>
+        <longitude>38.524340</longitude>
+        <description>Пятерочка, Елец, ул. Клубная, 1а</description>
+    </atm>
+	<atm>
+        <name>ATM050</name>
+        <latitude>52.616955</latitude>
+        <longitude>39.556249</longitude>
+        <description>ТРЦ "Москва", Липецк, ул. Титова, д. 10</description>
+    </atm>
+	<atm>
+        <name>ATM051</name>
+        <latitude>51.286459</latitude>
+        <longitude>37.798977</longitude>
+        <description>ТЦ "Весенний", Старый Оскол, мкр. Весенний, 5</description>
+    </atm>
+	<atm>
+        <name>ATM052</name>
+        <latitude>51.238478</latitude>
+        <longitude>37.902100</longitude>
+        <description>CГОК Карьерная площадка АБК, Старый Оскол</description>
+    </atm>
+	<atm>
+        <name>ATM053</name>
+        <latitude>51.238478</latitude>
+        <longitude>37.902100</longitude>
+        <description>CГОК Фабричная площадка АБК, Старый Оскол</description>
+    </atm>
+	<atm>
+        <name>ATM054</name>
+        <latitude>51.238478</latitude>
+        <longitude>37.902100</longitude>
+        <description>CГОК Фабричная площадка Столовая-4, Старый Оскол</description>
+    </atm>
+	<atm>
+        <name>ATM055</name>
+        <latitude>51.329531</latitude>
+        <longitude>37.873779</longitude>
+        <description>Белгородская обл., г. Старый Оскол, проспект Алексея Угарова, 14Б, Т.Ц. Спутник Оскол</description>
+    </atm>
+	<atm>
+        <name>ATM056</name>
+        <latitude>52.607096</latitude>
+        <longitude>38.479313</longitude>
+        <description>Пятерочка, Елец, ул. Радиотехническая, д. 2б</description>
+    </atm>
+	<atm>
+        <name>ATM057</name>
+        <latitude>52.614798</latitude>
+        <longitude>39.602336</longitude>
+        <description>магазин "Пятерочка", Липецк, ул. Плеханова, 47</description>
+    </atm>
+	<atm>
+        <name>ATM058</name>
+        <latitude>52.574343</latitude>
+        <longitude>39.522838</longitude>
+        <description>ТЦ "Ашан", г.Липецк, ул. Героя России Эдуарда Белана, д. 26</description>
+    </atm>
+	<atm>
+        <name>ATM059</name>
+        <latitude>52.584512</latitude>
+        <longitude>39.541141</longitude>
+        <description>магазин "Пятерочка" (Южный), Липецк, пр. 60 лет СССР, д. 4</description>
+    </atm>
+	<atm>
+        <name>ATM060</name>
+        <latitude>52.603112</latitude>
+        <longitude>39.581125</longitude>
+        <description>Доп. офис "Советское отделение", Липецк, ул. Первомайская, 66</description>
+    </atm>
+	<atm>
+        <name>ATM062</name>
+        <latitude>52.591052</latitude>
+        <longitude>39.616187</longitude>
+        <description>ДО "Новолипецкое отделение", Липецк, пл. Мира, 2а</description>
+    </atm>
+    <atm>
+        <name>ATM063</name>
+        <latitude>52.609546</latitude>
+        <longitude>39.564517</longitude>
+        <description>магазин "Покупайка", Липецк, ул. Циолковского, д. 26</description>
+    </atm>
+    <atm>
+        <name>ATM064</name>
+        <latitude>53.013918</latitude>
+        <longitude>39.132296</longitude>
+        <description>Лебедянский ДО , Лебедянь, ул. Победы, 5</description>
+    </atm>
+    <atm>
+        <name>ATM065</name>
+        <latitude>52.593943</latitude>
+        <longitude>39.544132</longitude>
+        <description>Доп.офис "ЛКБ ПЛЮС отделение "15 мкр-н", Липецк, 15 мкр-н, д. 8</description>
+    </atm>
+    <atm>
+        <name>ATM066</name>
+        <latitude>52.603232</latitude>
+        <longitude>39.574938</longitude>
+        <description>ТЦ "Меркурий", Липецк, пл. Победы, д. 1</description>
+    </atm>
+    <atm>
+        <name>ATM067</name>
+        <latitude>52.590771</latitude>
+        <longitude>39.557378</longitude>
+        <description>Доп.офис "ЛКБ ПЛЮС отделение "Победы", Липецк, пр. Победы, д. 102</description>
+    </atm>
+    <atm>
+        <name>ATM068</name>
+        <latitude>52.612249</latitude>
+        <longitude>38.482706</longitude>
+        <description>Проходная завода ОАО "Елецгидроагрегат", Елец, ул.Барковского, 3</description>
+    </atm>
+	<atm>
+        <name>ATM069</name>
+        <latitude>52.585579</latitude>
+        <longitude>39.519042</longitude>
+        <description>ТРЦ "Европа", Липецк, ул.Стаханова, 36</description>
+    </atm>
+	<atm>
+        <name>ATM070</name>
+        <latitude>44.098237</latitude>
+        <longitude>39.064109</longitude>
+        <description>ОАО "Туапсинский судоремонтный завод", Туапсе, ул. Горького, 11 (проходная)</description>
+    </atm>
+	<atm>
+        <name>ATM071</name>
+        <latitude>44.097729</latitude>
+        <longitude>39.078477</longitude>
+        <description>г.Туапсе, ул.Г.Петровой, д.2а</description>
+    </atm>
+	<atm>
+        <name>ATM072</name>
+        <latitude>44.123799</latitude>
+        <longitude>39.076189</longitude>
+        <description>магазин "Магнит", Туапсе, ул. Калараша,13</description>
+    </atm>
+	<atm>
+        <name>ATM073</name>
+        <latitude>44.114376</latitude>
+        <longitude>39.106409</longitude>
+        <description>ЛВЗ "Георгиевское" ЗАО, Туапсе, ул.Набережная, д.15</description>
+    </atm>
+	<atm>
+        <name>ATM074</name>
+        <latitude>44.10657</latitude>
+        <longitude>39.060192</longitude>
+        <description>г.Туапсе, ул.Таманская, д.18</description>
+    </atm>
+	<atm>
+        <name>ATM075</name>
+        <latitude>44.095190</latitude>
+        <longitude>39.071970</longitude>
+        <description>БЦ "Каравелла", Туапсе, Морской бульвар, д.2</description>
+    </atm>
+	<atm>
+        <name>ATM076</name>
+        <latitude>44.100955</latitude>
+        <longitude>39.092557</longitude>
+        <description>Туапсинский район п.Джубга ул. Новороссийское шоссе 10а аквапарк "Джубга".</description>
+    </atm>
+	<atm>
+        <name>ATM080</name>
+        <latitude>51.306652</latitude>
+        <longitude>37.889958</longitude>
+        <description>Магазин Магнит, г.Старый Оскол, мкр. Звездный, д.1</description>
+    </atm>
+	<atm>
+        <name>ATM081</name>
+        <latitude>51.309429</latitude>
+        <longitude>37.911814</longitude>
+        <description>Магазин "Пятерочка", Старый Оскол, мкр. "Восточный", 32</description>
+    </atm>
+	<atm>
+        <name>ATM082</name>
+        <latitude>51.329372</latitude>
+        <longitude>37.887387</longitude>
+        <description>Магазин "Пятерочка", Старый Оскол, мкр. "Северный", 1</description>
+    </atm>
+	<atm>
+        <name>ATM083</name>
+        <latitude>51.314872</latitude>
+        <longitude>37.890164</longitude>
+        <description>Магазин "Пятерочка", Старый Оскол, мкр. Жукова, 29Б</description>
+    </atm>
+	<atm>
+        <name>ATM084</name>
+        <latitude>51.314564</latitude>
+        <longitude>37.914958</longitude>
+        <description>Старооскольский ф-л, Старый Оскол, мк-рн Степной, 8А</description>
+    </atm>
+	<atm>
+        <name>ATM085</name>
+        <latitude>51.306611</latitude>
+        <longitude>37.88981</longitude>
+        <description>ТЦ "Оскол", Старый Оскол, мкр-н Олимпийский, 63</description>
+    </atm>
+	    <atm>
+        <name>ATM086</name>
+        <latitude>51.308483</latitude>
+        <longitude>37.871756</longitude>
+        <description>гипермаркет "Вестер Гипер" - ТЦ "Боше", Старый Оскол, мкр-н Ольминского, д. 17</description>
+    </atm>
+	<atm>
+        <name>ATM087</name>
+        <latitude>51.316711</latitude>
+        <longitude>37.904010</longitude>
+        <description>ТЦ "Все для Вас", Старый Оскол, мкр. "Надежда", 5</description>
+    </atm>
+	<atm>
+        <name>ATM088</name>
+        <latitude>51.311544</latitude>
+        <longitude>37.898173</longitude>
+        <description>ТЦ "Солнечный", Старый Оскол, мкр-н Солнечный, 36</description>
+    </atm>
+	<atm>
+        <name>ATM089</name>
+        <latitude>51.286121</latitude>
+        <longitude>37.793793</longitude>
+        <description>г. Старый Оскол, мкр. Интернациональный д.30, универсам "Пятерочка"</description>
+    </atm>
+	<atm>
+        <name>ATM090</name>
+        <latitude>51.279282</latitude>
+        <longitude>37.504564</longitude>
+        <description>Г.Губкин, ул. Космонавтов, д.14, ТЦ "Европа"</description>
+    </atm>
+	<atm>
+        <name>ATM091</name>
+        <latitude>52.600285</latitude>
+        <longitude>39.604147</longitude>
+        <description>"Липецкий Гипромез", Липецк, ул. Калинина, 1</description>
+    </atm>
+	<atm>
+        <name>ATM092</name>
+        <latitude>52.588618</latitude>
+        <longitude>39.535830</longitude>
+        <description>ТЦ "Армада", Липецк, ул. П. Смородина, 13А</description>
+    </atm>
+	<atm>
+        <name>ATM093</name>
+        <latitude>52.607788</latitude>
+        <longitude>39.602915</longitude>
+        <description>ЗАО "Липецккурорт", Липецк, ул. Салтыкова-Щедрина, 1</description>
+    </atm>
+	<atm>
+        <name>ATM094</name>
+        <latitude>52.598783</latitude>
+        <longitude>39.569996</longitude>
+        <description>ДО "Площадь Победы", Липецк, пр. Победы, 21</description>
+    </atm>
+	<atm>
+        <name>ATM095</name>
+        <latitude>52.622621</latitude>
+        <longitude>39.570061</longitude>
+        <description>ДО "ЛКБ ПЛЮС Отделение "Гагарина", Липецк, ул. Гагарина, 97</description>
+    </atm>
+    <atm>
+        <name>ATM096</name>
+        <latitude>52.611544</latitude>
+        <longitude>39.601239</longitude>
+        <description>ОАО "Липецккомбанк", Липецк, ул. Интернациональная, 8</description>
+    </atm>
+    <atm>
+        <name>ATM097</name>
+        <latitude>52.531660</latitude>
+        <longitude>39.750082</longitude>
+        <description>магазин "Покупайка", Липецк, пос. Дачный, ул. Писарева, 12а</description>
+    </atm>
+    <atm>
+        <name>ATM098</name>
+        <latitude>52.544977</latitude>
+        <longitude>39.577136</longitude>
+        <description>ДО ЛКБ+ "Отделение Тракторозаводское", Липецк, пл.Краснозаводская,2</description>
+    </atm>
+    <atm>
+        <name>ATM099</name>
+        <latitude>52.604396</latitude>
+        <longitude>39.525325</longitude>
+        <description>Липецкпассажиртранс, Липецк, Московская, 77</description>
+    </atm>
+    <atm>
+        <name>ATM100</name>
+        <latitude>52.608797</latitude>
+        <longitude>39.546736</longitude>
+        <description>магазин "Пятерочка", Липецк, ул. Космонавтов, 96</description>
+    </atm>
+    <atm>
+        <name>ATM101</name>
+        <latitude>52.475204</latitude>
+        <longitude>39.952244</longitude>
+        <description>магазин "Покуайка", Грязи, ул. Гагарина, 2-б</description>
+    </atm>
+	<atm>
+        <name>ATM102</name>
+        <latitude>52.634277</latitude>
+        <longitude>39.657840</longitude>
+        <description>ДО ЛКБ ПЛЮС "Отделение Газина", Липецк, ул. Газина, д. 2</description>
+    </atm>
+	<atm>
+        <name>ATM103</name>
+        <latitude>52.626459</latitude>
+        <longitude>38.484989</longitude>
+        <description>ЕГУ им. Бунина, Елец, ул. Коммунаров, 38 (корпус №8)</description>
+    </atm>
+	<atm>
+        <name>ATM104</name>
+        <latitude>52.615097</latitude>
+        <longitude>38.520250</longitude>
+        <description>ТЦ "Гильдия", Елец, ул. Орджоникидзе, 40</description>
+    </atm>
+	<atm>
+        <name>ATM105</name>
+        <latitude>52.573323</latitude>
+        <longitude>39.619308</longitude>
+        <description>ДО ЛКБ ПЛЮС "Отделение Расковой", Липецк, ул. М. Расковой, 2а</description>
+    </atm>
+	<atm>
+        <name>ATM106</name>
+        <latitude>52.611012</latitude>
+        <longitude>38.504792</longitude>
+        <description>Проходная завода ОАО "Гидропривод", Елец, ул. А.Гайтеровой, 6</description>
+    </atm>
+	<atm>
+        <name>ATM107</name>
+        <latitude>52.616844</latitude>
+        <longitude>38.581287</longitude>
+        <description>Град -Сервис  Магазин 11, г. Елец, Липецкая область. ул. Кротевича 27</description>
+    </atm>
+	<atm>
+        <name>ATM108</name>
+        <latitude>52.618185</latitude>
+        <longitude>39.528813</longitude>
+        <description>м-н "Росинка", Липецк, Универсальный поезд, 11</description>
+    </atm>
+	<atm>
+        <name>ATM109</name>
+        <latitude>52.590535</latitude>
+        <longitude>39.546151</longitude>
+        <description>ТЦ "Октябрьский", Липецк, ул.Меркулова, д.2</description>
+    </atm>
+	<atm>
+        <name>ATM110</name>
+        <latitude>53.252055</latitude>
+        <longitude>39.159607</longitude>
+        <description>магазин "Росинка", Данков, ул. Ленина, 11</description>
+    </atm>
+	<atm>
+        <name>ATM111</name>
+        <latitude>52.612426</latitude>
+        <longitude>39.555931</longitude>
+        <description>магазин "Пролетарский", Липецк, ул. Космонавтов, 33/4</description>
+    </atm>
+	<atm>
+        <name>ATM112</name>
+        <latitude>52.583723</latitude>
+        <longitude>39.519285</longitude>
+        <description>магазин "Пролетарский", Липецк, ул. Стаханова, 43</description>
+    </atm>
+	<atm>
+        <name>ATM113</name>
+        <latitude>52.612249</latitude>
+        <longitude>38.482706</longitude>
+        <description>Заводоуправление ПАО "Елецгидроагрегат", Елец, ул. Барковского, 3</description>
+    </atm>
+	<atm>
+        <name>ATM114</name>
+        <latitude>52.634534</latitude>
+        <longitude>39.663373</longitude>
+        <description>ОАО "ЛМЗ "Свободный Сокол", г.Липецк, пл. Заводская, 1</description>
+    </atm>
+	<atm>
+        <name>ATM115</name>
+        <latitude>52.627263</latitude>
+        <longitude>38.467274</longitude>
+        <description>ЗАО "Тандер", магазин "Магнит", Елец, ул. Коммунаров ,119 а</description>
+    </atm>
+	<atm>
+        <name>ATM116</name>
+        <latitude>52.604177</latitude>
+        <longitude>39.536536</longitude>
+        <description>ДО ЛКБ ПЛЮС "Отделение Вермишева", Липецк, ул. Вермишева, 2</description>
+    </atm>
+	<atm>
+        <name>ATM117</name>
+        <latitude>52.606084</latitude>
+        <longitude>39.541224</longitude>
+        <description>магазин "Пролетарский", Липецк, ул. Космонавтов, 106</description>
+    </atm>
+	<atm>
+        <name>ATM118</name>
+        <latitude>52.611052</latitude>
+        <longitude>38.504811</longitude>
+        <description>завод ОАО "Гидропривод, Г.Елец, ул.Ани Гайтеровой,6</description>
+    </atm>
+	<atm>
+        <name>ATM119</name>
+        <latitude>52.580221</latitude>
+        <longitude>39.527520</longitude>
+        <description>гипермаркет "Карусель", Липецк, ул. Катукова, 11</description>
+    </atm>
+	<atm>
+        <name>ATM120</name>
+        <latitude>52.602996</latitude>
+        <longitude>39.572046</longitude>
+        <description>магазин "Пятерочка", Липецк, пл. Победы, 5</description>
+    </atm>
+	<atm>
+        <name>ATM121</name>
+        <latitude>52.611544</latitude>
+        <longitude>39.601239</longitude>
+        <description>ОАО "Липецккомбанк", Липецк, ул. Интернациональная, 8</description>
+    </atm>
+	<atm>
+        <name>ATM122</name>
+        <latitude>52.615221</latitude>
+        <longitude>39.589353</longitude>
+        <description>ДО ЛКБ ПЛЮС "Отделение "Семашко", Липецк, ул. Семашко, 13</description>
+    </atm>
+	<atm>
+        <name>ATM123</name>
+        <latitude>52.590324</latitude>
+        <longitude>39.514099</longitude>
+        <description>ДО ЛКБ ПЛЮС "Отделение "Катукова", Липецк, ул. Катукова, 44</description>
+    </atm>
+	<atm>
+        <name>ATM124</name>
+        <latitude>52.616057</latitude>
+        <longitude>39.566205</longitude>
+        <description>магазин "Пятерочка", Липецк, ул. Космонавтов, 9</description>
+    </atm>
+	<atm>
+        <name>ATM125</name>
+        <latitude>52.589920</latitude>
+        <longitude>39.522934</longitude>
+        <description>Магазин "Покупайка", г. Липецк, ул. Шубина, 4</description>
+    </atm>
+    <atm>
+        <name>ATM126</name>
+        <latitude>52.622885</latitude>
+        <longitude>39.575549</longitude>
+        <description>гипермаркет "Карусель", Липецк, ул. Гагарина, 100-б</description>
+    </atm>
+    <atm>
+        <name>ATM127</name>
+        <latitude>52.528946</latitude>
+        <longitude>39.801306</longitude>
+        <description>магазин "Мир", Липецк, пос. Матырский, ул. Моршанская, 8</description>
+    </atm>
+    <atm>
+        <name>ATM128</name>
+        <latitude>52.597199</latitude>
+        <longitude>39.566251</longitude>
+        <description>магазин "Покупайка", Липецк, пр. Победы, 18</description>
+    </atm>
+    <atm>
+        <name>ATM129</name>
+        <latitude>52.626190</latitude>
+        <longitude>39.643605</longitude>
+        <description>ТРЦ "Липецк", Липецк, ул. Студеновская, 124-А</description>
+    </atm>
+    <atm>
+        <name>ATM130</name>
+        <latitude>52.583748</latitude>
+        <longitude>39.618588</longitude>
+        <description>м-н "Пятерочка", Липецк, пр. Мира, 13</description>
+    </atm>
+    <atm>
+        <name>ATM131</name>
+        <latitude>52.587691</latitude>
+        <longitude>39.587601</longitude>
+        <description>гипермаркет "Метро", Липецк, ул. 50 лет НЛМК, 8</description>
+    </atm>
+	<atm>
+        <name>ATM132</name>
+        <latitude>52.603793</latitude>
+        <longitude>39.521035</longitude>
+        <description>м-н "Пролетарский", Липецк, ул. Московская, 85</description>
+    </atm>
+	<atm>
+        <name>ATM133</name>
+        <latitude>52.601550</latitude>
+        <longitude>39.515940</longitude>
+        <description>магазин "Перекресток", Липецк, ул.Московская, 103</description>
+    </atm>
+	<atm>
+        <name>ATM134</name>
+        <latitude>52.623184</latitude>
+        <longitude>38.496913</longitude>
+        <description>Елецкий филиал ОАО "Липецккомбанк", Елец, ул. Ленина, 79</description>
+    </atm>
+	<atm>
+        <name>ATM135</name>
+        <latitude>52.588567</latitude>
+        <longitude>39.560633</longitude>
+        <description>Школа-интернат III-IV вида, Липецк, ул.Механизаторов, 9</description>
+    </atm>
+	<atm>
+        <name>ATM136</name>
+        <latitude>52.610447</latitude>
+        <longitude>39.535639</longitude>
+        <description>магазин "Пролетарский", Липецк, ул. Московская, 61а</description>
+    </atm>
+	<atm>
+        <name>ATM137</name>
+        <latitude>52.584090</latitude>
+        <longitude>39.542215</longitude>
+        <description>ДО ЛКБ ПЛЮС "Отделение "Октябрьское", Липецк, пр. 60 лет СССР, 2А</description>
+    </atm>
+	<atm>
+        <name>ATM138</name>
+        <latitude>52.622219</latitude>
+        <longitude>39.56671</longitude>
+        <description>м-н "Пятерочка", Липецк, ул. Гагарина, 103/1</description>
+    </atm>
+	<atm>
+        <name>ATM139</name>
+        <latitude>52.589933</latitude>
+        <longitude>39.542672</longitude>
+        <description>магазин "Покупайка", Липецк, ул.Меркулова, 10А</description>
+    </atm>
+	<atm>
+        <name>ATM140</name>
+        <latitude>52.583845</latitude>
+        <longitude>39.516755</longitude>
+        <description>магазин "Покупайка", Липецк, ул. Хорошавина, 1</description>
+    </atm>
+	<atm>
+        <name>ATM141</name>
+        <latitude>52.588768</latitude>
+        <longitude>39.620153</longitude>
+        <description>ТЦ "Матыра", Липецк, ул. З.Космодемьянской, 2-Б</description>
+    </atm>
+	<atm>
+        <name>ATM142</name>
+        <latitude>52.643322</latitude>
+        <longitude>39.650502</longitude>
+        <description>магазин "Пятерочка", Липецк, ул. Ушинского, 9/2</description>
+    </atm>
+	<atm>
+        <name>ATM143</name>
+        <latitude>53.013891</latitude>
+        <longitude>39.132432</longitude>
+        <description>магазин "Покупайка", Лебедянь, ул. Интернациональная, 9 в</description>
+    </atm>
+	<atm>
+        <name>ATM144</name>
+        <latitude>52.606233</latitude>
+        <longitude>39.507294</longitude>
+        <description>ДО ЛКБ ПЛЮС "Отделение "Университетское", Липецк, ул. Славянова, д.3</description>
+    </atm>
+	<atm>
+        <name>ATM145</name>
+        <latitude>52.630584</latitude>
+        <longitude>39.569408</longitude>
+        <description>магазин "Пролетарский" Липецк ул.Пришвина д.9-б</description>
+    </atm>
+	<atm>
+        <name>ATM146</name>
+        <latitude>52.605645</latitude>
+        <longitude>39.577621</longitude>
+        <description>ТЦ "Европа", Липецк, ул.Советская, д.66</description>
+    </atm>
+	<atm>
+        <name>ATM147</name>
+        <latitude>52.580693</latitude>
+        <longitude>39.473860</longitude>
+        <description>магазин "Покупайка", г.Липецк,ул.Монтажников, 2А</description>
+    </atm>
+	<atm>
+        <name>ATM148</name>
+        <latitude>52.612841</latitude>
+        <longitude>38.472916</longitude>
+        <description>"Гастроном", Елец, ул. Радиотехническая, 1 А</description>
+    </atm>
+	<atm>
+        <name>ATM149</name>
+        <latitude>52.604490</latitude>
+        <longitude>39.588571</longitude>
+        <description>ООО "НЛМК-Учетный центр", Липецк, ул. Советская, д.20</description>
+    </atm>
+	<atm>
+        <name>ATM150</name>
+        <latitude>53.249169</latitude>
+        <longitude>39.142274</longitude>
+        <description>магазин "Роcинка", г. Данков , ул. Чапаева,2/1</description>
+    </atm>
+	<atm>
+        <name>ATM151</name>
+        <latitude>52.627098</latitude>
+        <longitude>38.482484</longitude>
+        <description>Адм.здание МБУЗ гор.больница 1 им. Н.А.Семашко, Липецкая обл., Елец, ул.Коммунаров, 40</description>
+    </atm>
+	<atm>
+        <name>ATM152</name>
+        <latitude>52.681546</latitude>
+        <longitude>39.470154</longitude>
+        <description>ООО Агрофирма "Липецк", Липецкий р-н, с. Кузьминские отвержки,  ул. Котовского, д. 2-Б</description>
+    </atm>
+	<atm>
+        <name>ATM153</name>
+        <latitude>52.602951</latitude>
+        <longitude>39.504668</longitude>
+        <description>ЛГТУ, Липецк, ул. Московская, д. 30</description>
+    </atm>
+	<atm>
+        <name>ATM154</name>
+        <latitude>52.615458</latitude>
+        <longitude>38.972347</longitude>
+        <description>магазин "Покупайка", с. Донское Задонского района, ул. Октябрьская, д. 23</description>
+    </atm>
+	<atm>
+        <name>ATM155</name>
+        <latitude>52.529937</latitude>
+        <longitude>39.796255</longitude>
+        <description>ТЦ "Спектр", Липецк, пос. Матырский, ул. Физкультурная, 17В</description>
+    </atm>
+    <atm>
+        <name>ATM156</name>
+        <latitude>52.588096</latitude>
+        <longitude>39.534006</longitude>
+        <description>ТЦ "Универсальный центр", Липецк, ул. П.Смородина, 15</description>
+    </atm>
+    <atm>
+        <name>ATM157</name>
+        <latitude>52.611723</latitude>
+        <longitude>39.552575</longitude>
+        <description>Центральная городская клиническая больница, Липецк, ул. Космонавтов, 39</description>
+    </atm>
+    <atm>
+        <name>ATM158</name>
+        <latitude>52.548579</latitude>
+        <longitude>39.816635</longitude>
+        <description>магазин "Покупайка", Липецкая обл., Грязинский р-н, с. Казинка, ул. Ленина, 2/2</description>
+    </atm>
+    <atm>
+        <name>ATM159</name>
+        <latitude>52.496091</latitude>
+        <longitude>39.943941</longitude>
+        <description>Гипермаркет "Линия", Грязи, ул. 30 лет Победы, 61а</description>
+    </atm>
+    <atm>
+        <name>ATM160</name>
+        <latitude>51.285807</latitude>
+        <longitude>37.804609</longitude>
+        <description>г. Старый Оскол, Бульвар Дружбы, 10, гостиница "Русь"</description>
+    </atm>
+    <atm>
+        <name>ATM162</name>
+        <latitude>52.387653</latitude>
+        <longitude>38.917677</longitude>
+        <description>ТЦ "Сити-Молл" г. Задонск, ул. Крупской, 55</description>
+    </atm>
+	<atm>
+        <name>ATM163</name>
+        <latitude>52.614770</latitude>
+        <longitude>38.532731</longitude>
+        <description>Елецкий филиал МИИТ, Елец, ул. Вермишева, 12</description>
+    </atm>
+	<atm>
+        <name>ATM164</name>
+        <latitude>51.238478</latitude>
+        <longitude>37.902100</longitude>
+        <description>ОАО "Стойленский ГОК",Площадка Фабричная,проезд 4,столовая 4,Старый Оскол</description>
+    </atm>
+	<atm>
+        <name>ATM165</name>
+        <latitude>52.565979</latitude>
+        <longitude>39.609686</longitude>
+        <description>ДО ЛКБ+ "Отделение 9 мая", г. Липецк, пл. Металлургов, 2</description>
+    </atm>
+	<atm>
+        <name>ATM166</name>
+        <latitude>52.497502</latitude>
+        <longitude>39.944660</longitude>
+        <description>ТРЦ "Айсберг",г.Грязи, ул. 30 лет Победы, 52</description>
+    </atm>
+	<atm>
+        <name>ATM167</name>
+        <latitude>52.582671</latitude>
+        <longitude>39.510617</longitude>
+        <description>магазин "Пролетарский", г. Липецк, ул. Героя России Эдуарда Белана, д. 10.</description>
+    </atm>
+	<atm>
+        <name>ATM168</name>
+        <latitude>52.621467</latitude>
+        <longitude>38.496718</longitude>
+        <description>магазин "Магнит", Липецкая область, г. Елец, ул. Ленина, д. 74</description>
+    </atm>
+	<atm>
+        <name>ATM169</name>
+        <latitude>52.629752</latitude>
+        <longitude>38.457850</longitude>
+        <description>Елец, Липецкая область. ул, Московское шоссе,д. 3.А,помещение Гипермаркета "Линия"</description>
+    </atm>
+	<atm>
+        <name>ATM170</name>
+        <latitude>52.589392</latitude>
+        <longitude>39.616938</longitude>
+        <description>Магазин "Магнит",Липецк, пл. Мира,4</description>
+    </atm>
+	<atm>
+        <name>ATM171</name>
+        <latitude>52.517085</latitude>
+        <longitude>39.801776</longitude>
+        <description>Здание Административно-делового центра. Липецкая обл., Грязинский р-н, ОЭЗ ППТ "Липецк"</description>
+    </atm>
+	<atm>
+        <name>ATM172</name>
+        <latitude>52.603495</latitude>
+        <longitude>39.603871</longitude>
+        <description>Арбитражный суд Липецкой области, г. Липецк, пл. Петра Великого, 7</description>
+    </atm>
+	<atm>
+        <name>ATM173</name>
+        <latitude>52.590012</latitude>
+        <longitude>39.558254</longitude>
+        <description>Магазин "Пролетарский", Липецк, пр-кт Победы, д. 87</description>
+    </atm>
+	<atm>
+        <name>ATM174</name>
+        <latitude>52.619308</latitude>
+        <longitude>38.498729</longitude>
+        <description>Поликлиника №1, Липецкая обл., г. Елец, ул. Советская 62</description>
+    </atm>
+	<atm>
+        <name>ATM175</name>
+        <latitude>52.542801</latitude>
+        <longitude>39.578290</longitude>
+        <description>магазин "Пролетарский", г. Липецк, ул. Коммунистическая, д.11</description>
+    </atm>
+	<atm>
+        <name>ATM176</name>
+        <latitude>52.639934</latitude>
+        <longitude>39.660129</longitude>
+        <description>ГУЗ "Липецкая городская болница №3 "Свободный сокол", г. Липецк, ул. Ушинского, д. 10</description>
+    </atm>
+	<atm>
+        <name>ATM177</name>
+        <latitude>52.539236</latitude>
+        <longitude>39.570016</longitude>
+        <description>магазин "Пятерочка", г. Липецк, ул Юбилейная, д. 5</description>
+    </atm>
+	<atm>
+        <name>ATM178</name>
+        <latitude>52.147690</latitude>
+        <longitude>38.285057</longitude>
+        <description>Магазин "Калинка",Тербунский район, с. Тербуны, ул. Октябрьская, д. 49</description>
+    </atm>
+	<atm>
+        <name>ATM179</name>
+        <latitude>52.679838</latitude>
+        <longitude>39.633811</longitude>
+        <description>Адм. здание ОАО "Стагдок", Липецкий р-н, сельское поселение Введенский с/с, Студеновская промплощадка</description>
+    </atm>
+	<atm>
+        <name>ATM180</name>
+        <latitude>52.537432</latitude>
+        <longitude>39.582332</longitude>
+        <description>ГУЗ "Липецкая городская больница №4 "Липецк-Мед", г. Липецк, ул. Коммунистическая, д. 24</description>
+    </atm>
+	<atm>
+        <name>ATM181</name>
+        <latitude>52.491698</latitude>
+        <longitude>39.948899</longitude>
+        <description>магазин "Пятерочка", г. Грязи, ул. Революции 1905 года, д. 17</description>
+    </atm>
+	<atm>
+        <name>ATM182</name>
+        <latitude>52.489817</latitude>
+        <longitude>39.984664</longitude>
+        <description>магазин "Пятерочка", г.Грязи, ул. Коммунальная, д.18</description>
+    </atm>
+	<atm>
+        <name>ATM183</name>
+        <latitude>52.625825</latitude>
+        <longitude>38.497863</longitude>
+        <description>"Елецкий государственный университет им. И.А. Бунина", Липецкая обл., г. Елец, ул. Коммунаров, д. 28,1</description>
+    </atm>
+	<atm>
+        <name>ATM184</name>
+        <latitude>52.701753</latitude>
+        <longitude>39.451479</longitude>
+        <description>СПССПК "Экоптица" Липецкая обл., Липецкий р-он, с. Кузьминские Отвержки</description>
+    </atm>
+	<atm>
+        <name>ATM185</name>
+        <latitude>52.611148</latitude>
+        <longitude>39.574395</longitude>
+        <description>ТРЦ Малибу, Терешковой, 35б</description>
+    </atm>
+	<atm>
+        <name>ATM186</name>
+        <latitude>52.600021</latitude>
+        <longitude>39.578891</longitude>
+        <description>Магазин "Ложка", г. Липецк, ул. Неделина, д. 31а</description>
+    </atm>
+	<atm>
+        <name>ATM187</name>
+        <latitude>52.607944</latitude>
+        <longitude>38.501232</longitude>
+        <description>Супермаркет "Покупайка", Липецкая обл., г. Елец, ул. Пушкина, д. 22</description>
+    </atm>
+	<atm>
+        <name>ATM188</name>
+        <latitude>52.588114</latitude>
+        <longitude>39.534785</longitude>
+        <description>рынок "Октябрьский", Липецк, пр. 60 лет СССР, 20-Б</description>
+    </atm>
+	<atm>
+        <name>ATM189</name>
+        <latitude>52.602196</latitude>
+        <longitude>38.441493</longitude>
+        <description>Елецкая районная больница, Липецкая обл., Елецкий р-н, пос. Газопровод, ул. Зеленая, 23 А</description>
+    </atm>
+    <office>
+        <name>Отделение Автопарк</name>
+        <latitude>52.590671</latitude>
+        <longitude>39.557468</longitude>
+        <description>Отделение ПАО Липецккомбанк, Липецк, просп. Победы, 102</description>
+    </office>
+</lkb>
