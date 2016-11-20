@@ -33,7 +33,7 @@ public class Telegram extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "";
+        return "267893758:AAGcwEL39gt5AeYuBKHNPcBizJ8Y-uzjjgc";
     }
 
     @Override
@@ -55,8 +55,6 @@ public class Telegram extends TelegramLongPollingBot {
                     if (i == 3) description = value[3];
 
                 }
-
-
                 
                 sendMsg(message, "Банкомат №"+min+" "+"расстояние "+entry.getKey()+"м "+name+" находится по адресу "+description);
                 sendLocate(message, latitude2,longitude2);
